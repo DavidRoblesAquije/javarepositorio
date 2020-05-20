@@ -18,7 +18,7 @@ public class JavaAndGit {
         // TODO code application logic here
         System.out.println("Hola mundo desde Java para Git");
         System.out.println("Esto fue editado en el mismo github");
-        System.out.println("Volver a repasar el uso de git en java");
+        System.out.println("Volver a repasar el uso de git editando algo nuevo en java");
     }
     
 }
