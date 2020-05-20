@@ -19,6 +19,7 @@ public class JavaAndGit {
         System.out.println("Hola mundo desde Java para Git");
         System.out.println("Esto fue editado en el mismo github");
         System.out.println("Volver a repasar el uso de git editando algo nuevo en java");
+        System.out.println("Esta linea esta mal, debo restaurar la version anterior");
     }
     
 }
