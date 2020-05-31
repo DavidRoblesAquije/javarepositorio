@@ -38,16 +38,16 @@ public class otraRama extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(130, 130, 130)
+                .addGap(47, 47, 47)
                 .addComponent(jLabel1)
-                .addContainerGap(69, Short.MAX_VALUE))
+                .addContainerGap(152, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(89, 89, 89)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(259, Short.MAX_VALUE)
                 .addComponent(jLabel1)
-                .addContainerGap(195, Short.MAX_VALUE))
+                .addGap(25, 25, 25))
         );
 
         pack();
